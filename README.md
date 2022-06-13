@@ -16,9 +16,22 @@ The next step in this analysis was to look at a supsension coil data set that co
 <p align="center"> <img src="images/lot_summary.png"> </p>
 
 ## T-Tests on Suspension Coils
-Next, we used t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1500 PSI.
+Next, we used t-tests to determine if all manufacturing lots and each lot individually are statistically different from the hypothesized population mean of 1500 PSI.
+
+When comparing all manufacturing lots against the against the mean PSI of the population (1500) you can see that the true mean of all of the samples is 1498.78 PSI. The p-value of .06 is higher than the .05 significance level and show that there is not significant evidence to to reject the null hypothesis. We are able to say that the mean of all three manufacturing lot's PSI is statistically similar to the presumed population mean of 1500 PSI. Results of the t-test of all lots are shown below. 
 <p align="center"> <img src="images/t.testAll.png"> </p>
+
+Results and analysis of performing the t-test on each manfuacturing lot is shown below.
+From these results we can gather that:
 <p align="center"> <img src="images/t.testLot1.png"> </p>
+
+- Lot 1 has a true sample mean of 1500, equal to the presumed population mean and a p-value of 1. We cannot reject the null hypothesis and there is no evidence of any statistical difference between Lot 1 PSI and the presumed PSI. 
+
 <p align="center"> <img src="images/t.testLot2.png"> </p>
+
+- Lot 2 is similar to Lot 1 with a sample mean of 1500.2 and a p-value of .61. With this information and the fact that the p-value is larger than .05, we also have no statistical evidence to reject the null hypothesis and we can confidently say that sample mean and presumed population mean are statistically similar. 
+
 <p align="center"> <img src="images/t.testLot3.png"> </p>
+
+- Lot 3 did not have the same result. With a sample mean of 1496.14
 ## Study Design: MechaCar vs Competition
