@@ -33,5 +33,6 @@ From these results we can gather that:
 
 <p align="center"> <img src="images/t.testLot3.png"> </p>
 
-- Lot 3 did not have the same result. With a sample mean of 1496.14
+- Lot 3 did not have the same result. With a sample mean of 1496.14 and the p-value is .04, which is lower than the .05 significance level. This causes us to reject the null hypothesis and indicate that the sample mean and the presumed population mean is not statistically similar and recommend that an inspection of Lot 3's suspension coils be made.
+
 ## Study Design: MechaCar vs Competition
