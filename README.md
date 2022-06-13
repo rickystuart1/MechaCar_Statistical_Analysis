@@ -17,8 +17,8 @@ The next step in this analysis was to look at a supsension coil data set that co
 
 ## T-Tests on Suspension Coils
 Next, we used t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1500 PSI.
-<p align="center"> <img src="images/t.testAll"> </p>
-<p align="center"> <img src="images/t.testLot1"> </p>
-<p align="center"> <img src="images/t.testLot2"> </p>
-<p align="center"> <img src="images/t.testLot3"> </p>
+<p align="center"> <img src="images/t.testAll.png"> </p>
+<p align="center"> <img src="images/t.testLot1.png"> </p>
+<p align="center"> <img src="images/t.testLot2.png"> </p>
+<p align="center"> <img src="images/t.testLot3.png"> </p>
 ## Study Design: MechaCar vs Competition
