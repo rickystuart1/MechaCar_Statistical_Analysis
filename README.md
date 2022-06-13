@@ -36,3 +36,18 @@ From these results we can gather that:
 - Lot 3 did not have the same result. With a sample mean of 1496.14 and the p-value is .04, which is lower than the .05 significance level. This causes us to reject the null hypothesis and indicate that the sample mean and the presumed population mean is not statistically similar and recommend that an inspection of Lot 3's suspension coils be made.
 
 ## Study Design: MechaCar vs Competition
+### Description of Study
+Owning and maintaining a vehicle is very expenses, and purchasing a vehicle that can hold its value and maintain a low rate of depreciation is very important. A customer wants to know that they are getting the best "bang for their buck" when buying a MechaCar when comparing it to another competitor. 
+
+### Metric
+I would like to test the depreciation rate of the MechaCar vs its competitors. 
+
+### Hypothesis 
+- Null hypothesis: The rate of depreciation for the MechaCar is equal to the competitors.
+- Alternative hypothesis: The rate of depreciation for the MechaCar is statistically different from their competitors.
+
+### Statistical Test
+The statistical test performed would be a multiple linear regression to find the depreciation rates of the MechaCar and its competitors. And graph the results showing the depreciation rate vs year separating each manufacturer by color. 
+
+### Data Needed
+The data needed for this analysis would be vehicle type, values, age and mileage.  
